@@ -1,0 +1,2 @@
+# alex
+magicmirror project
